@@ -1,0 +1,13 @@
+C:\Users\Daniel\IdeaProjects\Exchange\bin\Debug\Exchange.exe.config
+C:\Users\Daniel\IdeaProjects\Exchange\bin\Debug\Exchange.exe
+C:\Users\Daniel\IdeaProjects\Exchange\bin\Debug\Exchange.pdb
+C:\Users\Daniel\IdeaProjects\Exchange\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\IdeaProjects\Exchange\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\IdeaProjects\Exchange\obj\Debug\Exchange.csproj.AssemblyReference.cache
+C:\Users\Daniel\IdeaProjects\Exchange\obj\Debug\Exchange.Main.resources
+C:\Users\Daniel\IdeaProjects\Exchange\obj\Debug\Exchange.Properties.Resources.resources
+C:\Users\Daniel\IdeaProjects\Exchange\obj\Debug\Exchange.csproj.GenerateResource.cache
+C:\Users\Daniel\IdeaProjects\Exchange\obj\Debug\Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\IdeaProjects\Exchange\obj\Debug\Exchange.csproj.CopyComplete
+C:\Users\Daniel\IdeaProjects\Exchange\obj\Debug\Exchange.exe
+C:\Users\Daniel\IdeaProjects\Exchange\obj\Debug\Exchange.pdb
